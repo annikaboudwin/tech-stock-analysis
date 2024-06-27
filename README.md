@@ -1,8 +1,8 @@
 This project involved taking four different unrelated stocks ('GME', 'NOK', 'NVDA' and 'TSLA') and comparing their weekly adjusted closings based on data from June 1, 2023 - May 30, 2024.
 
-![Screenshot 2024-06-26 at 8 58 14 PM](https://github.com/annikaboudwin/tech-stock-analysis/assets/4967101/18a88b9d-bf48-4d43-8a78-85d3ff273a8f)
-
 ![Screenshot 2024-06-26 at 8 57 51 PM](https://github.com/annikaboudwin/tech-stock-analysis/assets/4967101/c79699db-bdd0-4b85-88d6-fc325db5f7ee)
+
+![Screenshot 2024-06-26 at 8 58 14 PM](https://github.com/annikaboudwin/tech-stock-analysis/assets/4967101/18a88b9d-bf48-4d43-8a78-85d3ff273a8f)
 
 ![Screenshot 2024-06-26 at 9 00 55 PM](https://github.com/annikaboudwin/tech-stock-analysis/assets/4967101/e12e3e1b-2fc3-4b19-af44-b737445548da)
 
